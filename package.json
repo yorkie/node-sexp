@@ -1,5 +1,5 @@
 {
-  "name": "sexp",
+  "name": "node-sexp",
   "version": "1.0.0",
   "description": "s-expression builder for JavaScript",
   "main": "index.js",
