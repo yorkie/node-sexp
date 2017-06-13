@@ -1,5 +1,8 @@
 # sexp
 
+[![NPM version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+
 The [`S-expression`][] builder written in pure JavaScript, which lets you write a s-expression builder
 in JavaScript way like the following way:
 
@@ -31,4 +34,8 @@ $ npm install sexp --save
 
 MIT
 
+[npm-image]: https://img.shields.io/npm/v/sexp.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/sexp
+[travis-image]: https://img.shields.io/travis/yorkie/node-sexp.svg?style=flat-square
+[travis-url]: https://travis-ci.org/yorkie/node-sexp
 [`S-expression`]: https://en.wikipedia.org/wiki/S-expression
