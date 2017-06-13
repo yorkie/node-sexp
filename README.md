@@ -31,4 +31,4 @@ $ npm install sexp --save
 
 MIT
 
-- [`S-expression`]: https://en.wikipedia.org/wiki/S-expression
+[`S-expression`]: https://en.wikipedia.org/wiki/S-expression
