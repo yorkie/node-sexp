@@ -1,4 +1,4 @@
-# sexps
+# sexp
 
 The [S-expression]() builder written in pure JavaScript, which lets you write a s-expression builder
 in JavaScript way like the following way:
