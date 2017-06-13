@@ -1,6 +1,6 @@
 # sexp
 
-The [S-expression]() builder written in pure JavaScript, which lets you write a s-expression builder
+The [S-expression][] builder written in pure JavaScript, which lets you write a s-expression builder
 in JavaScript way like the following way:
 
 ```js
@@ -19,7 +19,7 @@ The above example will produce:
 
 ### `S-expression`
 
-The [`S-expression`]() is for symboltic expression that represents a nested list data.
+The [`S-expression`][] is for symboltic expression that represents a nested list data.
 
 ### Installation
 
